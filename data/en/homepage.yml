@@ -17,7 +17,7 @@ hero:
   # button
   button:
     enable : true
-    label : "HIRE ME"
+    label : "Say Hello"
     link : "#contact"
 
 
@@ -51,19 +51,19 @@ experience:
     - name : "Web Designer"
       company : ""
       duration : "2003-Current"
-      content : "I work with CMS such as Wordpress to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      content : "I work with CMS such as Wordpress to create websites and web applications like Personal, Business, Blog, E-commerce etc."
 
     # experience item loop
-    - name : "Graphic Designer"
+    - name : "Creative Designer"
       company : ""
       duration : "1998-Current"
-      content : "Graphic design is art with a purpose. I love illustration, so logo design is my favorite work. But i can do many things with graphics."
+      content : "Creative design is art with a purpose. Solves problems. Must be data-driven."
 
     # experience item loop
     - name : "Photographer"
       company : ""
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      duration : "2008-2018"
+      content : "Yup, I can take photos too!"
 
 
 ############################### Skill #################################
@@ -73,19 +73,19 @@ skill:
   skill_list:
     # skill item loop
     - name : "Web Design"
-      parcentage : "88%"
+      parcentage : "69.99%"
 
     # skill item loop
     - name : "Graphic Design"
-      parcentage : "89%"
+      parcentage : "89.99%"
 
     # skill item loop
     - name : "Creative Direction"
-      parcentage : "85%"
+      parcentage : "79.99%"
 
     # skill item loop
     - name : "Photography"
-      parcentage : "88%"
+      parcentage : "89.99%"
 
 
 ################################### Service ##############################3
@@ -131,7 +131,7 @@ call_to_action:
 
 ############################# portfolio ################################
 portfolio:
-  enable : true
+  enable : false
   title : "PORTFOLIO"
   portfolio_list:
     # portfolio item loop
@@ -227,7 +227,7 @@ portfolio:
 
 ################################# Testimonial #########################33
 testimonial:
-  enable : true
+  enable : false
   title : "TESTIMONIALS"
   testimonial_slider:
     # slider item loop
@@ -259,22 +259,22 @@ funfacts:
     # funfacts item loop
     - name : "HANDS TO WORK"
       image : "images/icons/works.png"
-      count : "100"
+      count : "3.14"
 
     # funfacts item loop
     - name : "HAPPY CLIENT"
       image : "images/icons/happy.png"
-      count : "200"
+      count : "3.14"
 
     # funfacts item loop
     - name : "FINISHED PROJECT"
       image : "images/icons/project.png"
-      count : "250"
+      count : "3.14"
 
     # funfacts item loop
     - name : "CUPS OF COFFEE"
       image : "images/icons/coffee.png"
-      count : "150"
+      count : "3.14"
 
 
 ############################## contact ###########################
