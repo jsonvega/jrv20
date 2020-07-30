@@ -59,7 +59,7 @@ experience:
     - name : "Creative Designer"
       company : ""
       duration : "1998-Current"
-      content : "Creative design is art with a purpose. Solves problems. Must be data-driven."
+      content : "Creative design is art with a purpose. Data-driven and solve problems."
 
     # experience item loop
     - name : "Photographer"
