@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://jaysonvega.com"
 title = "Jayson Vega | Portfolio"
-theme = "Somrat"
+theme = "somrat"
 # disable language
 disableLanguages = [] # desable language from here
 
