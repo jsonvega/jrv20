@@ -281,5 +281,5 @@ funfacts:
 
 ############################## contact ###########################
 contact:
-  enable : true
+  enable : false
   title : "SAY HELLO!"
