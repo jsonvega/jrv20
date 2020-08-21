@@ -83,7 +83,7 @@ weight = 6
 logo_light = "images/logo.png"
 logo_dark = "images/logo-dark.png"
 # Meta data
-description = "Jayson Vega - Graphic Designer"
+description = "Jayson Vega - Creative Designer"
 author = "somrat"
 # contact form action
 contact_form_action = "https://formspree.io/xdowdawn" # contact form works with https://formspree.io
@@ -107,6 +107,10 @@ link = "https://twitter.com/jsonvega"
 [[params.social]]
 icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
 link = "https://www.instagram.com/jsonvega/"
+
+[[params.social]]
+icon = "fa-flickr" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+link = "https://www.flickr.com/photos/whileontheroad/"
 
 [[params.social]]
 icon = "fa-github" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
