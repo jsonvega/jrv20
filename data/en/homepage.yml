@@ -93,7 +93,7 @@ skill:
 ################################### Service ##############################3
 service:
   enable : true
-  title : "SERVICES"
+  title : "WHAT I DO"
   service_list:
     # service item loop
     - name : "Web Design"
