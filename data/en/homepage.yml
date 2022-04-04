@@ -261,22 +261,22 @@ funfacts:
     # funfacts item loop
     - name : "HANDS TO WORK"
       image : "images/icons/works.png"
-      count : "3.14"
+      count : "5.89"
 
     # funfacts item loop
     - name : "HAPPY CLIENT"
       image : "images/icons/happy.png"
-      count : "3.14"
+      count : "5.89"
 
     # funfacts item loop
     - name : "FINISHED PROJECT"
       image : "images/icons/project.png"
-      count : "3.14"
+      count : "5.89"
 
     # funfacts item loop
     - name : "CUPS OF COFFEE"
       image : "images/icons/coffee.png"
-      count : "3.14"
+      count : "5.89"
 
 
 ############################## contact ###########################
