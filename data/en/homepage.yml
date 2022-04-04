@@ -41,7 +41,7 @@ I enjoy working with new ideas and visions reflecting deep commitment to the IT 
   button:
     enable : true
     label : "DOWNLOAD MY CV"
-    link : "https://github.com/jsonvega/jrv20/blob/master/data/en/Jayson%20Vega%20CV%202022.pdf" # you can put your cv in static folder and give the path here.
+    link : "#" # you can put your cv in static folder and give the path here.
 
 ###########################3 Experience ##############################
 experience:
