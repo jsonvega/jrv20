@@ -14,8 +14,7 @@ hero:
   slider_image:
     - "images/slider/slider-1.jpg"
     - "images/slider/slider-2.jpg"
-    - "images/slider/slider-3.jpg"
-
+    
   # button
   button:
     enable : true
@@ -112,11 +111,11 @@ service:
       image : "images/icons/software-development.png"
 
     # service item loop
-    - name : "Digital Marketing"
+    - name : "Production"
       image : "images/icons/marketing.png"
 
     # service item loop
-    - name : "Mobile App Development"
+    - name : "Gaming"
       image : "images/icons/mobile-app.png"
 
 
