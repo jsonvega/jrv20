@@ -105,8 +105,8 @@ icon = "fa-twitter" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/ic
 link = "https://twitter.com/jsonvega"
 
 [[params.social]]
-icon = "fa-instagram" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
-link = "https://www.instagram.com/jsonvega/"
+icon = "fa-behance" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+link = "https://www.behance.net/jaysonvega"
 
 [[params.social]]
 icon = "fa-flickr" # fontawesome icon 4.7.0 : https://fontawesome.com/v4.7.0/icons/
